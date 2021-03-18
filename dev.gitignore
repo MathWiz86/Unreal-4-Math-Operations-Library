@@ -73,9 +73,3 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Non-Public Files
-# *.uproject
-# *.sln
-# Config/*
-# Content/*
-# Source/*
